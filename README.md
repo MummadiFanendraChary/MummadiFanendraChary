@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MummadiFanendraChary
 - 👀 I’m interested in Tech Gadgets
 - 🌱 I’m currently learning Python, HTML...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail:Fanendramummadi@gmail.com
 
 <!---
